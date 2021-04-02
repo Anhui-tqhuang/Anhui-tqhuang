@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anhui-tqhuang
-- 👀 I’m interested in anime and games, visit [bili](bilibili.com) every day!
+- 👀 I’m interested in anime and games, visit [bili](www.bilibili.com) every day!
 - 🌱 I’m currently learning everything i think it's fun.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: tianqiuhuang@gmail.com
