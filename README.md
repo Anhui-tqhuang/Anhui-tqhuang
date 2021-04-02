@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anhui-tqhuang
 - 👀 I’m interested in anime and games!!!
 - 🌱 I’m currently learning everything i think it's fun.
-- 💞️ I’m a developer on cloud, moreover on PaaS(DB as a service, DB manager as a service), use golang, javascript, rust and python.
+- 💞️ I’m a developer on cloud, moreover on PaaS(DB as a service, DB management as a service), use golang, javascript, rust and python.
 - 📫 How to reach me: tianqiuhuang@gmail.com
 
 <!---
