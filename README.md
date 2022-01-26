@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Anhui-tqhuang
-- 👀 I’m interested in anime and games!!!
-- 🌱 I’m currently learning everything i think it's fun.
-- 💞️ I’m a developer on cloud, moreover on PaaS(DB as a service, DB management as a service), use golang, javascript, rust and python.
-- 📫 How to reach me: tianqiuhuang@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Anhui-tqhuang/Anhui-tqhuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
